@@ -1,1 +1,38 @@
-
+colors:
+  bright:
+    black: '#808080'
+    blue: '#0066ff'
+    cyan: '#00ffff'
+    green: '#33ff00'
+    magenta: '#cc00ff'
+    red: '#fe0100'
+    white: '#FFFFFF'
+    yellow: '#feff00'
+  cursor:
+    cursor: '#ffffff'
+    text: '#F81CE5'
+  normal:
+    black: '#000000'
+    blue: '#0066ff'
+    cyan: '#00ffff'
+    green: '#33ff00'
+    magenta: '#cc00ff'
+    red: '#fe0100'
+    white: '#d0d0d0'
+    yellow: '#feff00'
+  primary:
+    background: '#000000'
+    foreground: '#ffffff'
+font:
+  bold:
+    family: Hack NF
+  family: Hack
+  italic:
+    family: Hack NF
+  normal:
+    family: Hack NF
+  size: 13.0
+  style: Bold
+theme: Hyper
+window:
+  opacity: 0.9
